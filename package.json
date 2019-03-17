@@ -1,0 +1,16 @@
+{
+  "name": "package1",
+  "version": "1.0.0",
+  "description": "first package",
+  "main": "asyncinoout.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anshuman",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.3",
+    "bl": "^2.1.2",
+    "through2-map": "^3.0.0"
+  }
+}
